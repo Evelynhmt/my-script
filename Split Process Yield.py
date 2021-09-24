@@ -192,9 +192,7 @@ def removebin(ndf):
 if __name__ == '__main__':
 
     ################################### USER CONFIG ################################################
-    # Note: this script current only supports loading data from one file per run. If there is
-    # interest, I can update the script to enable "batch processing" functionality.
-    
+  
     # save processed data address
     savepf = r'C:\00\SplitYield\Daily Yield'
     # raw data location
